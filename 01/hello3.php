@@ -3,6 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Hello, World!</title>
+	<style type="text/css">
+	.bold {
+		font-weight: bolder;
+	}
+	</style>
 </head>
 <body>
 <p>The following was created by PHP: <br>
@@ -13,7 +18,7 @@
  *	Created by: Larry Ullman
  */
 
-//print "<strong>Hello, world!</strong>\n";
+//print "<span class=\"bold\">Hello, world!</span>";
 
 ?>
 <!-- This is an HTML comment. -->
