@@ -16,10 +16,12 @@ $name1 = '$first_name $last_name';
 $name2 = "$first_name $last_name";
 
 // Single or double quotation marks DOES matter here:
-print "<h1>Double Quotes</h1><p>name1 is $name1 <br />
+print "<h1>Double Quotes</h1>
+<p>name1 is $name1 <br>
 name2 is $name2</p>";
 
-print '<h1>Single Quotes</h1><p>name1 is $name1 <br />
+print '<h1>Single Quotes</h1>
+<p>name1 is $name1 <br>
 name2 is $name2</p>';
 
 ?>

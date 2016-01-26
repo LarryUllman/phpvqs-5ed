@@ -14,7 +14,7 @@ $state = "PA";
 $zip = 16801;
 
 // Print the address:
-print "<p>The address is:<br />$street <br />$city $state $zip</p>";
+print "<p>The address is:<br>$street <br>$city $state $zip</p>";
 
 ?>
 </body>
