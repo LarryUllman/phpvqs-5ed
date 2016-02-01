@@ -12,8 +12,8 @@
 <body>
 <?php // Script 3.7 - hello.php 
 
-ini_set ('display_errors', 1); // Let me learn from my mistakes!
-error_reporting (E_ALL | E_STRICT); // Show all possible problems!
+ini_set('display_errors', 1); // Let me learn from my mistakes!
+error_reporting(E_ALL); // Show all possible problems!
 
 // This page should receive a name value in the URL.
 

@@ -7,8 +7,8 @@
 <body>
 <?php // Script 3.5 - handle_form.php #3
 
-ini_set ('display_errors', 1); // Let me learn from my mistakes!
-error_reporting (E_ALL | E_STRICT); // Show all possible problems!
+ini_set('display_errors', 1); // Let me learn from my mistakes!
+error_reporting(E_ALL); // Show all possible problems!
 
 // This page receives the data from feedback.html.
 // It will receive: title, name, email, response, comments, and submit in $_POST.
