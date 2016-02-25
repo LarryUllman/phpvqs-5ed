@@ -28,7 +28,7 @@ $total = $total + $shipping;
 $total = $total - $discount;
 
 // Determine the tax rate:
-$taxrate = $tax/100;
+$taxrate = $tax / 100;
 $taxrate = $taxrate + 1;
 
 // Factor in the tax rate:

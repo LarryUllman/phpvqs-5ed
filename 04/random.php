@@ -11,9 +11,9 @@
 // Address error handling, if you want.
 
 // Create three random numbers:
-$n1 = rand(1, 99);
-$n2 = rand(1, 99);
-$n3 = rand(1, 99);
+$n1 = mt_rand(1, 99);
+$n2 = mt_rand(1, 99);
+$n3 = mt_rand(1, 99);
 
 // Print out the numbers:
 print "<p>Your lucky numbers are:<br>
