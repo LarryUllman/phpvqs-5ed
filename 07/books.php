@@ -14,16 +14,16 @@
 $phpvqs = [1 => 'Getting Started with PHP', 'Variables', 'HTML Forms and PHP', 'Using Numbers'];
 
 // Create the second array:
-$phpadv = [1 => 'Advanced PHP Techniques', 'Developing Web Applications', 'Advanced Database Concepts', 'Security Techniques'];
+$phpadv = [1 => 'Advanced PHP Techniques', 'Developing Web Applications', 'Advanced Database Concepts', 'Basic Object-Oriented Programming'];
 
 // Create the third array:
 $phpmysql = [1 => 'Introduction to PHP', 'Programming with PHP', 'Creating Dynamic Web Sites', 'Introduction to MySQL'];
 
 // Create the multidimensional array:
 $books = [
-'PHP VQS' => $phpvqs,
-'PHP Advanced VQP' => $phpadv,
-'PHP and MySQL VQP' => $phpmysql
+	'PHP VQS' => $phpvqs,
+	'PHP Advanced VQP' => $phpadv,
+	'PHP and MySQL VQP' => $phpmysql
 ];
 
 // Print out some values:

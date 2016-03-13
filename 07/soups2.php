@@ -12,9 +12,9 @@
 
 // Create the array:
 $soups = [
-'Monday' => 'Clam Chowder',
-'Tuesday' => 'White Chicken Chili',
-'Wednesday' => 'Vegetarian'
+	'Monday' => 'Clam Chowder',
+	'Tuesday' => 'White Chicken Chili',
+	'Wednesday' => 'Vegetarian'
 ];
 
 // Count and print the current number of elements:

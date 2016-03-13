@@ -11,13 +11,13 @@
 // Address error management, if you want.
 
 // Create the array:
-$grades = [ 
-'Richard' => 95, 
-'Sherwood' => 82,
-'Toni' => 98,
-'Franz' => 87, 
-'Melissa' => 75,
-'Roddy' => 85
+$grades = [
+	'Richard' => 95, 
+	'Sherwood' => 82,
+	'Toni' => 98,
+	'Franz' => 87, 
+	'Melissa' => 75,
+	'Roddy' => 85
 ];
 
 // Print the original array:

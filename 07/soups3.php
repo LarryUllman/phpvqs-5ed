@@ -13,12 +13,12 @@
 
 // Create the array:
 $soups = [
-'Monday' => 'Clam Chowder',
-'Tuesday' => 'White Chicken Chili',
-'Wednesday' => 'Vegetarian',
-'Thursday' => 'Chicken Noodle',
-'Friday' => 'Tomato',
-'Saturday' => 'Cream of Broccoli'
+	'Monday' => 'Clam Chowder',
+	'Tuesday' => 'White Chicken Chili',
+	'Wednesday' => 'Vegetarian',
+	'Thursday' => 'Chicken Noodle',
+	'Friday' => 'Tomato',
+	'Saturday' => 'Cream of Broccoli'
 ];
 
 // Print each key and value:
