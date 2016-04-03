@@ -1,0 +1,47 @@
+.btn {
+  /*border-radius: 4px;*/
+  /*transition: all .3s;*/
+}
+
+.siteHeader {
+  border-bottom: 1px solid #eee;
+}
+
+.logo {
+  font-size: 22px;
+  margin-bottom: 0;
+}
+
+.nav { text-align: right; }
+
+.nav li {
+  display: inline;
+  line-height: 4;
+  margin-left: 25px;
+}
+.nav li:first-of-type {
+  margin-left: 0;
+}
+
+.masthead {
+  background-color: #eee;
+  padding: 50px 0;
+}
+@media (min-width: 48em) {
+  .masthead {
+    padding: 100px 0;
+  }
+}
+
+.masthead-title {
+  margin-top: 0;
+}
+
+.siteContent {
+  padding: 50px 0;
+}
+.siteFooter {
+  border-top: 1px solid #eee;
+  font-size: .875em;
+  padding-top: 15px;
+}
