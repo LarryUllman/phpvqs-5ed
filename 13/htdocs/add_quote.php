@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') { // Handle the form.
 		}
 
 		$query = "INSERT INTO quotes (quote, source, favorite) VALUES ('$quote', '$source', $favorite)";
-		$result = mysqli_query($dbc, $query);
+		mysqli_query($dbc, $query);
 
 		if (mysqli_affected_rows($dbc) == 1){
 			// Print a message:
