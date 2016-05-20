@@ -1,6 +1,6 @@
 <?php // Script 13.1 - mysqli_connect.php
 /* This script connects to the database
-and established the character set for communications. */
+and establishes the character set for communications. */
 
 // Connect:
 $dbc = mysqli_connect('localhost', 'username', 'password', 'myquotes');
